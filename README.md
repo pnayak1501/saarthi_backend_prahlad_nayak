@@ -20,14 +20,14 @@ pip install djongo
 6. Run the manage.py file
 7. Go through the following urls: <br>
   (i) External books (GET method) - 
-    ```http://127.0.0.1:8000/api/external-books?name=A Game of Thrones```
+    ```http://127.0.0.1:8000/api/external-books?name=A Game of Thrones``` <br>
   (ii) Creating a book (POST method) - 
-    ```http://127.0.0.1:8000/api/v1/books```
+    ```http://127.0.0.1:8000/api/v1/books``` <br>
   (iii) Reading all books in the DB (GET method) - 
-    ```http://127.0.0.1:8000/api/v1/books```
+    ```http://127.0.0.1:8000/api/v1/books``` <br>
   (iv) Updating a book(here updating book with id = 1) (POST method) - 
-    ```http://127.0.0.1:8000/api/v1/books/1/update```
+    ```http://127.0.0.1:8000/api/v1/books/1/update``` <br>
   (v) Deleting a book(here deleting book with id = 4) (DELETE method) - 
-    ```http://127.0.0.1:8000/api/v1/books/4```
+    ```http://127.0.0.1:8000/api/v1/books/4``` <br>
   (vi) Showing a book(here showing book with id = 1) (GET method) - 
-    ```http://127.0.0.1:8000/api/v1/books/1```
+    ```http://127.0.0.1:8000/api/v1/books/1``` <br>
