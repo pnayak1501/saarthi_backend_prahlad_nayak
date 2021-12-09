@@ -1,9 +1,16 @@
 # saarthi_backend_prahlad_nayak
+
+### External books (GET method) -
 ![](screenshots/1.png)
+### Creating a book (POST method) -
 ![](screenshots/2.png)
+### Reading all books in the DB (GET method) -
 ![](screenshots/3.png)
+### Updating a book(here updating book with id = 1) (POST method) -
 ![](screenshots/4.png)
+### Deleting a book(here deleting book with id = 4) (DELETE method) -
 ![](screenshots/5.png)
+### Showing a book(here showing book with id = 1) (GET method) -
 ![](screenshots/6.png)
 
 ## Getting Started
