@@ -1,18 +1,18 @@
 # saarthi_backend_prahlad_nayak
-![](screenshots/p1.png)
-![](screenshots/p1.png)
-![](screenshots/p1.png)
-![](screenshots/p1.png)
-![](screenshots/p1.png)
-
-
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
+![](screenshots/5.png)
+![](screenshots/6.png)
 
 ## Getting Started
 
 ### Install
 1. Download or clone the repository.
 2. Open Pycharm or any other IDE.
-3. Create a new virtual environment for the project. After this step, the venv directory should be generated as generated in the below screenshot. 
+3. Create a new virtual environment for the project. After this step, the venv directory should be generated as generated in the below screenshot.
+![](screenshots/t1.png)
 4. Restart the IDE.
 5. Go to the Pycharm terminal and install these dependencies.
   ```bash
