@@ -19,5 +19,5 @@ pip install djongo
 ```
 6. Run the manage.py file
 7. Go through the following urls: <br>
-  (i) External books
+  (i) External books - 
     ```http://127.0.0.1:8000/api/external-books?name=A Game of Thrones```
